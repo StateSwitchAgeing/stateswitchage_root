@@ -1,0 +1,7 @@
+*
+!*.*
+!*/
+*.m~
+*.fuse_hidden*
+.DS_Store
+*._*

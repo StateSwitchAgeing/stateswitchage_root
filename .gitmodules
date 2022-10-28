@@ -1,0 +1,241 @@
+[submodule "stsw_anat/0_preproc"]
+	path = stsw_anat/0_preproc
+	url = ./stsw_anat/0_preproc
+	datalad-id = 0c27bc00-163d-4fe2-ae2d-222401676877
+[submodule "stsw_anat/ANTs"]
+	path = stsw_anat/ANTs
+	url = ./stsw_anat/ANTs
+	datalad-id = b2201ed8-82e1-48da-8c77-9172c397dd3d
+[submodule "stsw_anat/FreeSurfer"]
+	path = stsw_anat/FreeSurfer
+	url = ./stsw_anat/FreeSurfer
+	datalad-id = b2201ed8-82e1-48da-8c77-9172c397dd3d
+[submodule "stsw_beh_stroop"]
+	path = stsw_beh_stroop
+	url = ./stsw_beh_stroop
+	datalad-id = fa7fb869-fac5-466b-b3e1-eda5be62cc6a
+[submodule "stsw_beh_task/behavior"]
+	path = stsw_beh_task/behavior
+	url = ./stsw_beh_task/behavior
+	datalad-id = 6c3c8040-92b2-488a-a9ca-338dbacb2aab
+[submodule "stsw_beh_task/hddm"]
+	path = stsw_beh_task/hddm
+	url = ./stsw_beh_task/hddm
+	datalad-id = 9c1c6abc-fab9-4198-a259-743aee4cd9e5
+[submodule "stsw_beh_task/stimJitter"]
+	path = stsw_beh_task/stimJitter
+	url = ./stsw_beh_task/stimJitter
+	datalad-id = 7fa1cc68-6a85-4388-a673-76d99eebcf4d
+[submodule "stsw_demographics"]
+	path = stsw_demographics
+	url = ./stsw_demographics
+	datalad-id = 99660ece-a9d0-4a8a-9fbb-5c7671f76231
+[submodule "stsw_eeg_rest/0_preproc"]
+	path = stsw_eeg_rest/0_preproc
+	url = ./stsw_eeg_rest/0_preproc
+	datalad-id = d9ab932b-f815-4c73-a6b3-a8ba68ea9186
+[submodule "stsw_eeg_rest/MSE_CSD_multiVariant"]
+	path = stsw_eeg_rest/MSE_CSD_multiVariant
+	url = ./stsw_eeg_rest/MSE_CSD_multiVariant
+	datalad-id = 43d78eec-1fed-4fd3-9877-0c7a16fe2a6d
+[submodule "stsw_eeg_rest/MSE_phaseShuffled"]
+	path = stsw_eeg_rest/MSE_phaseShuffled
+	url = ./stsw_eeg_rest/MSE_phaseShuffled
+	datalad-id = a104dee9-19e1-443a-b233-733d34625b37
+[submodule "stsw_eeg_rest/eBOSC_CSD"]
+	path = stsw_eeg_rest/eBOSC_CSD
+	url = ./stsw_eeg_rest/eBOSC_CSD
+	datalad-id = c4586e6c-bdc7-4538-a39c-a6d675dabf28
+[submodule "stsw_eeg_rest/eBOSC_noDur"]
+	path = stsw_eeg_rest/eBOSC_noDur
+	url = ./stsw_eeg_rest/eBOSC_noDur
+	datalad-id = 11814d82-a7d2-4eb3-a28a-e8fe2f8f0318
+[submodule "stsw_eeg_rest/fft"]
+	path = stsw_eeg_rest/fft
+	url = ./stsw_eeg_rest/fft
+	datalad-id = 82d66712-ab05-47e9-8474-f65fe9e496ae
+[submodule "stsw_eeg_rest/fooof"]
+	path = stsw_eeg_rest/fooof
+	url = ./stsw_eeg_rest/fooof
+	datalad-id = 0c64fc3a-68a5-4919-8343-275d92414920
+[submodule "stsw_eeg_rest/periRhythmMSE"]
+	path = stsw_eeg_rest/periRhythmMSE
+	url = ./stsw_eeg_rest/periRhythmMSE
+	datalad-id = 27d80129-7b9f-4ade-9db4-a96fac6eef9d
+[submodule "stsw_eeg_stroop/0_preproc"]
+	path = stsw_eeg_stroop/0_preproc
+	url = ./stsw_eeg_stroop/0_preproc
+	datalad-id = 64b8f0d2-da98-44eb-8f6c-5d570806cdb3
+[submodule "stsw_eeg_stroop/erp"]
+	path = stsw_eeg_stroop/erp
+	url = ./stsw_eeg_stroop/erp
+	datalad-id = 06b6abe3-2107-4034-a6f6-101b3826df28
+[submodule "stsw_eeg_stroop/tfr"]
+	path = stsw_eeg_stroop/tfr
+	url = ./stsw_eeg_stroop/tfr
+	datalad-id = 9ec072fb-5272-4a91-8c99-9bd6f8e8d880
+[submodule "stsw_eeg_task/0_preproc"]
+	path = stsw_eeg_task/0_preproc
+	url = ./stsw_eeg_task/0_preproc
+	datalad-id = b73e0a44-3e79-4b58-89a5-a24032c19d99
+[submodule "stsw_eeg_task/X1_preprocEEGData"]
+	path = stsw_eeg_task/X1_preprocEEGData
+	url = ./stsw_eeg_task/X1_preprocEEGData
+	datalad-id = c5088887-8081-4fb8-8fa3-de083b03d5a4
+[submodule "stsw_eeg_task/aperiodic"]
+	path = stsw_eeg_task/aperiodic
+	url = ./stsw_eeg_task/aperiodic
+	datalad-id = 132f18a3-588e-4554-83ad-c0958686e522
+[submodule "stsw_eeg_task/aperiodic_fooof"]
+	path = stsw_eeg_task/aperiodic_fooof
+	url = ./stsw_eeg_task/aperiodic_fooof
+	datalad-id = c9d83115-4b87-4f7a-90d8-b5e905c18bdc
+[submodule "stsw_eeg_task/cpp"]
+	path = stsw_eeg_task/cpp
+	url = ./stsw_eeg_task/cpp
+	datalad-id = 3908f73c-b9d5-451b-ad87-e330dbe5f1d9
+[submodule "stsw_eeg_task/cpp_norm"]
+	path = stsw_eeg_task/cpp_norm
+	url = /home/mpib/LNDG/stateswitch/stsw_eeg_task/cpp
+	datalad-id = 3908f73c-b9d5-451b-ad87-e330dbe5f1d9
+[submodule "stsw_eeg_task/decoding"]
+	path = stsw_eeg_task/decoding
+	url = ./stsw_eeg_task/decoding
+	datalad-id = 2e3691d3-282a-4fe5-be1d-3a4642602c77
+[submodule "stsw_eeg_task/erp"]
+	path = stsw_eeg_task/erp
+	url = ./stsw_eeg_task/erp
+	datalad-id = c5f867fe-6192-42f9-a069-a0cfc4d7717b
+[submodule "stsw_eeg_task/mse"]
+	path = stsw_eeg_task/mse
+	url = ./stsw_eeg_task/mse
+	datalad-id = 47469109-ec9b-41a2-853b-8fdebf444c5b
+[submodule "stsw_eeg_task/pls_aperiodic"]
+	path = stsw_eeg_task/pls_aperiodic
+	url = ./stsw_eeg_task/pls_aperiodic
+	datalad-id = 90888d5b-d125-4a45-be09-29c1356f6227
+[submodule "stsw_eeg_task/ssvep"]
+	path = stsw_eeg_task/ssvep
+	url = ./stsw_eeg_task/ssvep
+	datalad-id = 9b93f3a1-3605-4401-b661-f26b8b930a8f
+[submodule "stsw_eeg_task/tfr"]
+	path = stsw_eeg_task/tfr
+	url = ./stsw_eeg_task/tfr
+	datalad-id = 964224a1-c160-452e-acf0-f8cb7c34671f
+[submodule "stsw_eeg_task/tfr_gamma"]
+	path = stsw_eeg_task/tfr_gamma
+	url = ./stsw_eeg_task/tfr_gamma
+[submodule "stsw_eeg_task/tfr_periresponse"]
+	path = stsw_eeg_task/tfr_periresponse
+	url = ./stsw_eeg_task/tfr_periresponse
+	datalad-id = dbcc6f51-9900-4496-af04-135ccfde63d6
+[submodule "stsw_eeg_task/tfr_theta-rsp"]
+	path = stsw_eeg_task/tfr_theta-rsp
+	url = /home/mpib/LNDG/stateswitch/stsw_eeg_task/tfr_periresponse
+[submodule "stsw_eye/0_preproc"]
+	path = stsw_eye/0_preproc
+	url = ./stsw_eye/0_preproc
+	datalad-id = 87e43b62-46a8-4c89-b7b1-168c6eb2e9aa
+[submodule "stsw_eye/fixations"]
+	path = stsw_eye/fixations
+	url = ./stsw_eye/fixations
+	datalad-id = 327a1f8c-2f45-407c-a005-df5db916be10
+[submodule "stsw_eye/microsaccades"]
+	path = stsw_eye/microsaccades
+	url = ./stsw_eye/microsaccades
+	datalad-id = ef3669ab-3f89-4768-8357-615d00e423a2
+[submodule "stsw_eye/pupil"]
+	path = stsw_eye/pupil
+	url = ./stsw_eye/pupil
+	datalad-id = c8519f9d-c7a0-4709-8ede-e59f5ca3e325
+[submodule "stsw_fmri_rest/0_preproc"]
+	path = stsw_fmri_rest/0_preproc
+	url = ./stsw_fmri_rest/0_preproc
+	datalad-id = f3ca85b9-ae78-4d35-b9d2-06dba06ddb85
+[submodule "stsw_fmri_rest/VarReductionFIX"]
+	path = stsw_fmri_rest/VarReductionFIX
+	url = ./stsw_fmri_rest/VarReductionFIX
+	datalad-id = 14a9766a-acf3-4448-b177-081077b0b4b3
+[submodule "stsw_fmri_rest/dimensionality"]
+	path = stsw_fmri_rest/dimensionality
+	url = ./stsw_fmri_rest/dimensionality
+	datalad-id = 5e8ad06f-4d0e-4485-b89f-2595c957b092
+[submodule "stsw_fmri_rest/pls"]
+	path = stsw_fmri_rest/pls
+	url = ./stsw_fmri_rest/pls
+	datalad-id = 19a0a920-a567-452d-ad99-cf33190f24f0
+[submodule "stsw_fmri_rest/totalVariance"]
+	path = stsw_fmri_rest/totalVariance
+	url = ./stsw_fmri_rest/totalVariance
+	datalad-id = 7b04940e-80cb-465c-bf13-0c562c11784c
+[submodule "stsw_fmri_task/0_preproc"]
+	path = stsw_fmri_task/0_preproc
+	url = ./stsw_fmri_task/0_preproc
+	datalad-id = 8c468775-5750-4418-9dec-3aee19f94c92
+[submodule "stsw_fmri_task/WIP/LoveDim"]
+	path = stsw_fmri_task/WIP/LoveDim
+	url = ./stsw_fmri_task/WIP/LoveDim
+	datalad-id = 6e8e9df3-e352-4d51-84ea-eae8b5d6b382
+[submodule "stsw_fmri_task/WIP/lowDimensional"]
+	path = stsw_fmri_task/WIP/lowDimensional
+	url = ./stsw_fmri_task/WIP/lowDimensional
+	datalad-id = 1ab3a200-c09b-4b81-af8b-5bab753ef746
+[submodule "stsw_fmri_task/WIP/pls_dimensionality"]
+	path = stsw_fmri_task/WIP/pls_dimensionality
+	url = ./stsw_fmri_task/WIP/pls_dimensionality
+	datalad-id = 02508080-29fa-4bff-93c5-cf5905d9d873
+[submodule "stsw_fmri_task/WIP/pls_sd"]
+	path = stsw_fmri_task/WIP/pls_sd
+	url = ./stsw_fmri_task/WIP/pls_sd
+	datalad-id = 199e9f28-1b5d-4295-9107-62f799a7949d
+[submodule "stsw_fmri_task/WIP/temporalClustering"]
+	path = stsw_fmri_task/WIP/temporalClustering
+	url = ./stsw_fmri_task/WIP/temporalClustering
+	datalad-id = 3b37513b-89fa-4ad9-a35b-16890834af10
+[submodule "stsw_fmri_task/decoding"]
+	path = stsw_fmri_task/decoding
+	url = ./stsw_fmri_task/decoding
+	datalad-id = 8a3c78c1-0c47-4e98-9dc4-7829ae43a1ea
+[submodule "stsw_fmri_task/design_timing"]
+	path = stsw_fmri_task/design_timing
+	url = git@git.mpib-berlin.mpg.de:LNDG/stateswitch/mri/design_timing.git
+	datalad-id = 08d40062-0687-4d34-96cd-4bdb770d768f
+[submodule "stsw_fmri_task/extended_preproc"]
+	path = stsw_fmri_task/extended_preproc
+	url = git@git.mpib-berlin.mpg.de:LNDG/stateswitch/mri/preproc_extended.git
+	datalad-id = e691ad34-12c9-4d63-9b9d-ab7c60a56b6c
+[submodule "stsw_fmri_task/glm"]
+	path = stsw_fmri_task/glm
+	url = ./stsw_fmri_task/glm
+	datalad-id = 04a5cb24-36d5-403b-a001-d8f7cf72783f
+[submodule "stsw_fmri_task/glm_vartbx"]
+	path = stsw_fmri_task/glm_vartbx
+	url = ./stsw_fmri_task/glm_vartbx
+[submodule "stsw_fmri_task/pls_eventrelated"]
+	path = stsw_fmri_task/pls_eventrelated
+	url = ./stsw_fmri_task/pls_eventrelated
+	datalad-id = 4472d6b4-da67-4459-b83d-2bf56211d8fa
+[submodule "stsw_fmri_task/pls_mean"]
+	path = stsw_fmri_task/pls_mean
+	url = ./stsw_fmri_task/pls_mean
+	datalad-id = cef738bb-6e21-4dae-abb4-36a3817330b5
+[submodule "stsw_fmri_task/pls_vartbx"]
+	path = stsw_fmri_task/pls_vartbx
+	url = ./stsw_fmri_task/pls_vartbx
+	datalad-id = 2f88b2fd-2ead-493a-a411-d07f2f514928
+[submodule "stsw_fmri_task/spectrum"]
+	path = stsw_fmri_task/spectrum
+	url = ./stsw_fmri_task/spectrum
+	datalad-id = 08f4545c-851c-460f-aee0-ddb537da95c8
+[submodule "stsw_fmri_task/thalamic_nuclei"]
+	path = stsw_fmri_task/thalamic_nuclei
+	url = ./stsw_fmri_task/thalamic_nuclei
+	datalad-id = efd62aca-f1f2-4151-aa7d-956329d9ad59
+[submodule "stsw_fmri_task/visualization"]
+	path = stsw_fmri_task/visualization
+	url = ./stsw_fmri_task/visualization
+	datalad-id = de3707cf-2a2d-4b2b-ad94-439c3835c47f
+[submodule "stsw_multimodal"]
+	path = stsw_multimodal
+	url = ./stsw_multimodal
+	datalad-id = 8459b099-17f3-4b3c-8159-868963bcfe4d
