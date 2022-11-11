@@ -239,3 +239,7 @@
 	path = stsw_multimodal
 	url = ./stsw_multimodal
 	datalad-id = 8459b099-17f3-4b3c-8159-868963bcfe4d
+[submodule "stsw_eeg_rest/permMSE"]
+	path = stsw_eeg_rest/permMSE
+	url = ./stsw_eeg_rest/permMSE
+	datalad-id = ca63b159-f975-4510-9ca1-4fe011e44592
