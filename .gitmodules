@@ -1,6 +1,6 @@
 [submodule "stsw_anat/0_preproc"]
 	path = stsw_anat/0_preproc
-	url = ./stsw_anat/0_preproc
+	url = .-stsw_anat-0_preproc
 	datalad-id = 0c27bc00-163d-4fe2-ae2d-222401676877
 [submodule "stsw_anat/ANTs"]
 	path = stsw_anat/ANTs
