@@ -27,7 +27,7 @@
 	url = git@gin.g-node.org:/StateSwitch/stsw-stsw_beh_task-stimJitter
 	datalad-id = 7fa1cc68-6a85-4388-a673-76d99eebcf4d
 [submodule "stsw_demographics"]
-	path = stew_demographics
+	path = stsw_demographics
 	url = git@gin.g-node.org:/StateSwitch/stsw-stsw_demographics
 	datalad-id = 99660ece-a9d0-4a8a-9fbb-5c7671f76231
 [submodule "stsw_eeg_rest/0_preproc"]
