@@ -94,10 +94,6 @@
 	path = stsw_eeg_task/cpp
 	url = git@gin.g-node.org:/StateSwitch/stsw-stsw_eeg_task-cpp
 	datalad-id = 3908f73c-b9d5-451b-ad87-e330dbe5f1d9
-[submodule "stsw_eeg_task/cpp_norm"]
-	path = stsw_eeg_task/cpp_norm
-	url = /home/mpib/LNDG/stateswitch/stsw_eeg_task-cpp
-	datalad-id = 3908f73c-b9d5-451b-ad87-e330dbe5f1d9
 [submodule "stsw_eeg_task/decoding"]
 	path = stsw_eeg_task/decoding
 	url = git@gin.g-node.org:/StateSwitch/stsw-stsw_eeg_task-decoding
